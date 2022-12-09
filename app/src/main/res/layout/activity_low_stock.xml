@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LowStockActivity">
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/low_stock_quantitiy_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/appl_all_view_color"
+        app:navigationIcon="@drawable/ic_back_arrwo_white"
+        app:title="Low Stock"
+        app:titleTextColor="@color/white" />
+    <TextView
+        android:id="@+id/low_stock_txt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Low Stock Products"
+        android:layout_margin="10dp"
+        android:textSize="14sp"
+        android:textColor="@color/black"
+        android:layout_below="@+id/low_stock_quantitiy_toolbar"
+        >
+    </TextView>
+    <LinearLayout
+        android:id="@+id/show_not_found_low_stock"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:visibility="gone"
+        android:layout_centerInParent="true"
+        >
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/lowstock"
+            android:layout_gravity="center"
+            />
+        <TextView
+            android:layout_margin="10dp"
+            android:textColor="@color/black"
+            android:textSize="25sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="No Low Stock Found"
+            android:gravity="center"
+            />
+        <TextView
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="No Low Stock product found"
+            android:gravity="center"
+            />
+            </LinearLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/low_stock_quantity"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/low_stock_txt"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp">
+
+    </androidx.recyclerview.widget.RecyclerView>
+</RelativeLayout>

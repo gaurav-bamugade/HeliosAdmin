@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/drawable-v24/aqua_border_color.xml" value="0.148" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/drawable-v24/bubble_right.xml" value="0.1405" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/drawable-v24/chat_notfi_badge.xml" value="0.1405" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/drawable-v24/corner_round_header.xml" value="0.148" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/drawable-v24/custom_line.xml" value="0.1" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/drawable-v24/grey_border_task.xml" value="0.1845" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/drawable-v24/ic_add_group_grey.xml" value="0.1" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/drawable-v24/ic_add_group_person.xml" value="0.1" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/drawable-v24/ic_arrow_down_24.xml" value="0.148" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/drawable-v24/ic_arrow_up_24.xml" value="0.1405" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/drawable-v24/ic_attach_file.xml" value="0.1405" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/drawable-v24/ic_back_arrwo_white.xml" value="0.1405" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/drawable-v24/ic_black_search.xml" value="0.1405" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/drawable-v24/ic_create_group_white.xml" value="0.1405" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/drawable-v24/ic_edit_grey.xml" value="0.1" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/drawable-v24/ic_group_grey.xml" value="0.1" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/drawable-v24/ic_send_black.xml" value="0.1405" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/drawable-v24/ic_time_black.xml" value="0.1405" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/drawable-v24/little_round_header.xml" value="0.148" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/drawable-v24/logo_grey_round.xml" value="0.1845" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/drawable-v24/normal_circle.xml" value="0.148" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/drawable-v24/sender_message_layout.xml" value="0.1405" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/drawable-v24/style_spinner.xml" value="0.16" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/drawable/cell_shape.xml" value="0.1285" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/drawable/gradient2.xml" value="0.1275" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/drawable/green_border_card.xml" value="0.159" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/drawable/grey_border.xml" value="0.151" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/drawable/ic_wifi_off_black.xml" value="0.1" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/drawable/login_back_ground.xml" value="0.1845" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/drawable/pink_border_color.xml" value="0.123" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/drawable/rounded_box.xml" value="0.159" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/drawable/roundrect.xml" value="0.151" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/activity_add_category_for_product.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/activity_add_new_unit.xml" value="0.2" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/activity_add_party.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/activity_add_stock.xml" value="0.22" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/activity_admin_login.xml" value="0.3048211508553655" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/activity_all_party.xml" value="0.25" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/activity_all_product.xml" value="0.21" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/activity_chat_tabs.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/activity_edit_group_image.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/activity_edit_prod.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/activity_edit_prod_details.xml" value="0.2" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/activity_edit_profile.xml" value="0.22" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/activity_generate_attendance_pdf.xml" value="0.16547066272688898" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/activity_generate_pdf.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/activity_group_chat2.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/activity_group_info.xml" value="0.1" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/activity_group_participant.xml" value="0.1" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/activity_leave_details.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/activity_low_stock.xml" value="0.2" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/activity_low_stock_quantity_row_layout.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/activity_new_product_upload.xml" value="0.2" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/activity_out_stock.xml" value="0.21" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/activity_party_entry_details.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/activity_product_details.xml" value="0.25" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/activity_show_attendance.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/activity_show_calendar.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/activity_show_leaves.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/activity_single_chat.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/activity_stock_in_out.xml" value="0.22" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/activity_stock_manage.xml" value="0.25" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/activity_update_password.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/activity_user_manage.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/activity_user_profile_details.xml" value="0.25" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/activity_users_profile.xml" value="0.25" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/add_category_dialog.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/add_emp_role_dialogue.xml" value="0.21" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/add_party_dialogue.xml" value="0.25" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/add_product_category_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/add_unit_for_product_dialogue.xml" value="0.2" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/all_entries_for_product_row_layout.xml" value="0.25" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/back_ground_image.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/calendar_custom_layout.xml" value="0.21" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/calendar_date_layout.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/change_group_name.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/chat_display_item_layout.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/chat_drawer_toolbar.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/check_internet_connection_dialogue.xml" value="0.1" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/create_group_dialogue.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/custom_messages_layout.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/dashboard_recyclerview_item_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/drawer_toolbar.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/event_layout.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/fragment_dashboard.xml" value="0.33" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/fragment_first.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/fragment_generate_id.xml" value="0.25" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/fragment_group_chat.xml" value="0.25" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/fragment_product.xml" value="0.22" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/fragment_send_mail.xml" value="0.25" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/fragment_single_chat.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/grid_layout.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/group_chat_list.xml" value="0.22" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/group_chat_receiver_left.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/group_chat_sender_right.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/group_participant_add.xml" value="0.1" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/leaves_request_row_layout.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/low_stock_quantity_layout.xml" value="0.25" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/notif_badge.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/party_entry_row_layout.xml" value="0.33" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/party_names_row_layout.xml" value="0.21" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/prod_item_card.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/row_attendance_report.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/row_attendance_report_header.xml" value="0.16547066272688898" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/row_leave_report.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/show_event_layout.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/show_events_layout.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/stock_item_card_row_layout.xml" value="0.25" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/style_spinner.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/layout/unit_row_layout.xml" value="0.16417272338606242" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/menu/attendance_menu.xml" value="0.16547066272688898" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/menu/bottom_menu_items.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/menu/chat_notification.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/menu/group_menu.xml" value="0.14814814814814814" />
+        <entry key="..\:/Users/Komal Bamugade/AndroidStudioProjects/adminSideDemoProject/app/src/main/res/menu/side_menu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

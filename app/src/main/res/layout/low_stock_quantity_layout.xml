@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:contentPadding="5dp"
+    app:cardElevation="3dp"
+    app:cardCornerRadius="5dp"
+    android:id="@+id/party_name_card"
+    android:layout_margin="10dp"
+    android:layout_height="wrap_content">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <TextView
+            android:id="@+id/item_name_low_stock"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="10dp"
+            android:text="Gaurav"
+            android:textColor="@color/black"
+            android:textSize="14sp" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_below="@+id/item_name_low_stock"
+            >
+            <TextView
+                android:id="@+id/available_low_quantity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Available"
+                android:layout_weight="1"
+                android:layout_margin="10dp"
+                android:textColor="@color/black"
+                android:textSize="14sp"
+                >
+            </TextView>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                >
+                <TextView
+                    android:id="@+id/available_low_number"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="300"
+                    android:layout_weight="1"
+                    android:layout_margin="10dp"
+                    android:textAlignment="textEnd"
+                    android:textColor="@color/black"
+                    android:textSize="14sp"
+                    >
+                </TextView>
+                <TextView
+                    android:id="@+id/unit_type"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="pieces"
+                    android:layout_weight="1"
+                    android:layout_margin="10dp"
+                    android:textColor="@color/black"
+                    android:textSize="14sp"
+                    >
+                </TextView>
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

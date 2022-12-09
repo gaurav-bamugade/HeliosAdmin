@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".GenerateIdFragment">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+           >
+
+            <LinearLayout
+                android:id="@+id/card_rel_inner_lay_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                >
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="15dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5dp"
+                        android:text="Enter User Name"
+                        android:textColor="@color/black"
+                        android:textSize="14sp" />
+
+                    <EditText
+                        android:id="@+id/um_enter_name_of_user"
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:background="@drawable/grey_border"
+                        android:hint="Enter User Name"
+                        android:paddingStart="10dp">
+                    </EditText>
+
+                </LinearLayout>
+              <!--  <RelativeLayout
+                    android:id="@+id/rel_1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="15dp"
+                    android:background="@drawable/grey_border"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="15dp">
+
+
+                    <com.google.android.material.textfield.TextInputLayout
+                        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        app:boxCornerRadiusBottomStart="10dp"
+                        app:boxStrokeColor="#00a2ff"
+                        app:boxCornerRadiusTopEnd="10dp"
+                        app:hintTextAppearance="@android:style/TextAppearance.Medium">
+
+                        <com.google.android.material.textfield.TextInputEditText
+                            android:id="@+id/um_enter_name_of_user"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:hint="Enter Name"
+                            android:inputType="textPersonName"
+                            android:textSize="20sp" />
+
+                    </com.google.android.material.textfield.TextInputLayout>
+
+                </RelativeLayout>-->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="15dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5dp"
+                        android:text="Enter Email-ID"
+                        android:textColor="@color/black"
+                        android:textSize="14sp" />
+
+                    <EditText
+                        android:id="@+id/um_enter_email_id_of_user"
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:background="@drawable/grey_border"
+                        android:hint="Enter Email ID"
+                        android:paddingStart="10dp">
+                    </EditText>
+
+                </LinearLayout>
+           <!--     <RelativeLayout
+                    android:id="@+id/rel_2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/rel_1"
+                    android:layout_marginLeft="15dp"
+                    android:background="@drawable/grey_border"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="15dp">
+
+                    <com.google.android.material.textfield.TextInputLayout
+                        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        app:boxCornerRadiusBottomStart="10dp"
+                        app:boxCornerRadiusTopEnd="10dp"
+
+                        app:boxStrokeColor="#00a2ff"
+                        app:hintTextAppearance="@android:style/TextAppearance.Medium">
+
+                        <com.google.android.material.textfield.TextInputEditText
+                            android:id="@+id/um_enter_email_id_of_user"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:hint="Enter Email ID"
+                            android:inputType="textEmailAddress"
+                            android:textSize="20sp" />
+
+                    </com.google.android.material.textfield.TextInputLayout>
+
+                </RelativeLayout>-->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="15dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5dp"
+                        android:text="Click To Generate Pass"
+                        android:textColor="@color/black"
+                        android:textSize="14sp" />
+
+
+                    <LinearLayout
+                        android:id="@+id/rel_4"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+
+                        android:background="@drawable/grey_border"
+                        android:orientation="horizontal">
+
+                        <EditText
+                            android:id="@+id/um_generate_password_of_user"
+                            android:layout_weight="1"
+                            android:layout_width="match_parent"
+                            android:layout_height="50dp"
+                            android:layout_gravity="bottom"
+                            android:background="@drawable/grey_border"
+                            android:hint="Generated Pass"
+                            android:paddingStart="10dp">
+                        </EditText>
+
+                        <Button
+                            android:id="@+id/um_btn_generate_password_of_user"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:layout_margin="5dp"
+                            android:layout_weight="1"
+                            android:background="@drawable/grey_border"
+                            android:text="Generate">
+
+                        </Button>
+
+                    </LinearLayout>
+                </LinearLayout>
+
+
+
+                <!-- <RelativeLayout
+                     android:id="@+id/rel_8"
+                     android:layout_width="match_parent"
+                     android:layout_height="wrap_content"
+                     android:layout_below="@id/rel_4"
+                     android:layout_marginLeft="15dp"
+                     android:layout_marginTop="10dp"
+                     android:layout_marginRight="15dp"
+                     android:background="@drawable/designed_shape">
+
+                     <com.google.android.material.textfield.TextInputLayout
+                         style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense"
+                         android:layout_width="match_parent"
+                         android:layout_height="wrap_content"
+                         app:boxCornerRadiusBottomStart="10dp"
+                         app:boxCornerRadiusTopEnd="10dp"
+                         app:boxStrokeColor="#00a2ff"
+                         app:hintTextAppearance="@android:style/TextAppearance.Medium">
+
+                         <com.google.android.material.textfield.TextInputEditText
+                             android:id="@+id/et_enter_birthday_of_user"
+                             android:layout_width="match_parent"
+                             android:layout_height="wrap_content"
+                             android:hint="DOB"
+                             android:inputType="number"
+                             android:maxLength="10"
+                             android:textSize="20sp" />
+
+                     </com.google.android.material.textfield.TextInputLayout>
+
+
+                 </RelativeLayout>-->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="15dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5dp"
+                        android:text="Select User Role"
+                        android:textColor="@color/black"
+                        android:textSize="14sp" />
+
+                    <Spinner
+                        android:id="@+id/role_of_the_user"
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:layout_below="@id/rel_4"
+
+                        android:background="@drawable/style_spinner">
+
+                    </Spinner>
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_below="@id/role_of_the_user"
+                    >
+                    <com.google.android.material.button.MaterialButton
+                        android:id="@+id/create_Id"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:layout_margin="20dp"
+                        android:background="@drawable/grey_border"
+                        android:backgroundTint="#2373"
+                        android:text="Create ID"
+                        android:textAllCaps="true"
+                        android:textColor="#FFF"
+                        app:cornerRadius="20dp" />
+                    <com.google.android.material.button.MaterialButton
+                        android:id="@+id/add_factory_role"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:layout_margin="20dp"
+                        android:background="@drawable/grey_border"
+                        android:backgroundTint="#2373"
+                        android:text="Add role"
+                        android:textAllCaps="true"
+                        android:textColor="#FFF"
+                        app:cornerRadius="20dp" />
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+        </ScrollView>
+</RelativeLayout>
